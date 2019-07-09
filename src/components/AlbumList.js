@@ -1,5 +1,5 @@
 import React, { Component } from 'react'; 
-import { View, Text, Image, ScrollView } from 'react-native';
+import { ScrollView } from 'react-native';
 import axios from 'axios';
 import AlbumDetail from './AlbumDetail';
 
